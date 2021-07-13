@@ -44,7 +44,6 @@ h2{
 	padding: 5px;
 	border-radius: 6px;
 	color: rgb(0, 102, 68);
-	overflow-x: scroll;
 }
 
 .get-library .cdn:hover{
