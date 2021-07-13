@@ -6,7 +6,11 @@ At it's heart the library works like the modernizr library. Just add the minifie
 ```html
 <script src="https://raw.githubusercontent.com/itsmygit/horsepower.js/main/dist/hpower.min.js"></script>
 ```
-or just install with npm and import in your index.js
+or just install with npm
+```html
+npm i hpower
+```
+and import in your index.js
 ```javascript
 import hpower from "hpower"
 ```
