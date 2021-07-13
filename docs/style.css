@@ -39,7 +39,7 @@ h2{
 
 .get-library .cdn{
 	background-color: antiquewhite;
-	width: 60%;
+	overflow: hidden;
 	margin: 5px;
 	padding: 5px;
 	border-radius: 6px;
