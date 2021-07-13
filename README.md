@@ -1,2 +1,2 @@
-# touchstone.js
-# Awesome javascript library coming soon...
+# horsepower.js
+# Lightning fast and tiny script to identify processing power in the browser
