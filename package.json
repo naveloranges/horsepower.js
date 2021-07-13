@@ -1,0 +1,27 @@
+{
+  "name": "hpower",
+  "version": "0.0.2",
+  "description": "Lightning fast and tiny script to identify processing power in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmygit/horsepower.js.git"
+  },
+  "keywords": [
+    "processing power",
+    "horse power",
+    "horsepower",
+    "fast",
+    "browser benchmark",
+    "benchmark"
+  ],
+  "author": "itsmygit",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/itsmygit/horsepower.js/issues"
+  },
+  "homepage": "https://itsmygit.github.io/horsepower.js/"
+}
