@@ -11,7 +11,7 @@ and import in your index.js
 import hpower from "hpower"
 ```
 
-The html of your website will be one of these classes so you can use it in your css(from the lowest performant browser to the highest)
+This is all you have to do then the html of your website will be one of these classes so you can use it in your css(from the lowest performant browser to the highest)
 ```css
 .one-fifth-powerful
 .two-fifth-powerful
