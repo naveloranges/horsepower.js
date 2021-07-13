@@ -28,4 +28,5 @@ for a medium powerful machine. Or you can use it in javascript by
 ```javascript
 if(hpower.isThreeFifthPowerful){
     // run this code
-}```
+}
+```
