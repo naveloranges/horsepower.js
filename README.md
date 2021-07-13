@@ -1,12 +1,8 @@
 # horsepower.js
 # Lightning fast and tiny script to identify processing power in the browser
 
-At it's heart the library works like the modernizr library. Just add the minified javascript in the end of the body of your html
-
-```html
-<script src="https://raw.githubusercontent.com/itsmygit/horsepower.js/main/dist/hpower.min.js"></script>
-```
-or just install with npm
+At it's heart the library works like the modernizr library.
+just install with npm
 ```html
 npm i hpower
 ```
