@@ -4,7 +4,7 @@
 At it's heart the library works like the modernizr library. Just add the minified javascript in the end of the body of your html
 
 ```html
-<script src=""></script>
+<script src="https://raw.githubusercontent.com/itsmygit/horsepower.js/main/dist/hpower.min.js"></script>
 ```
 or just install with npm and import in your index.js
 ```javascript
