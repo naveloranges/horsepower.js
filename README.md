@@ -29,5 +29,5 @@ for a medium powerful machine. Or you can use it in javascript by
 if(hpower.isThreeFifthPowerful){
     // run this code
 }
-``
+```
 The intended time it takes to produce benchmark is less than 50ms and the library size is about 50kb.
