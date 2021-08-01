@@ -1,5 +1,11 @@
 # horsepower.js
-# Lightning fast and tiny script to identify processing power in the browser
+
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/itsmygit/horsepower.js/blob/main/docs/hpower.PNG">
+</p>
+
+# A tiny, lightning fast script to identify processing power in the browser
 
 At it's heart the library works like the modernizr library.
 just install with npm
