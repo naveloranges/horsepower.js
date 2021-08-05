@@ -28,6 +28,11 @@ h2{
 	align-items: center;
 }
 
+img{
+	margin-right: 10px;
+	height: 30px;
+}
+
 .get-library .npm-module{
 	background-color: antiquewhite;
 	width: 60%;
