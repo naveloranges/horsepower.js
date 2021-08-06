@@ -37,3 +37,6 @@ if(hpower.isThreeFifthPowerful){
 }
 ```
 The intended time it takes to produce benchmark is less than 50ms and the library size is about 50kb.
+
+# How does it work?
+This is done by running simple random operations and benchmarking the execution time for trying to find out the processing power of the device the browser is running on. The randomized behavior of the code prevents the javascript engine to cache anything and helps identifying the browser power more accurately.
