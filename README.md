@@ -5,13 +5,41 @@
   <img width="460" height="300" src="https://github.com/itsmygit/horsepower.js/blob/main/docs/hpower.PNG">
 </p>
 
-# A tiny, lightning fast script to identify processing power in the browser
+### A tiny, lightning fast script to identify processing power in the browser
 
-At it's heart the library works like the modernizr library.
-just install with npm
 ```html
 npm i hpower
 ```
+
+### Table of Contents 
+[Intro](#intro)
+    
+[What](#what)  
+    
+[Why](#why)
+    
+[How](#how)
+
+
+
+<a name="intro"/>
+
+## Intro
+
+<a name="what"/>
+
+## What is this library
+At it's heart the library works like the modernizr library.
+
+<a name="why"/>
+
+## Why should I use this library
+
+<a name="how"/>
+
+## How to use this library
+
+
 and import in your index.js
 ```javascript
 import hpower from "hpower"
