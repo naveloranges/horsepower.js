@@ -5,7 +5,7 @@
   <img width="460" height="300" src="https://github.com/itsmygit/horsepower.js/blob/main/docs/hpower.PNG">
 </p>
 
-### A tiny, lightning fast script to identify processing power in the browser
+### A lightning fast 0 dependency script to identify processing power in the browser
 
 ### Table of Contents 
 [Intro](#intro)
