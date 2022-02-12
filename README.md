@@ -7,10 +7,6 @@
 
 ### A tiny, lightning fast script to identify processing power in the browser
 
-```html
-npm i hpower
-```
-
 ### Table of Contents 
 [Intro](#intro)
     
