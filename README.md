@@ -9,6 +9,7 @@
 
 ### Table of Contents 
 [Intro](#intro)
+A lightning fast 0 dependency script to identify processing power in the browser. Sometimes you want to know what the processing power of the browser you run your code on is to determin the amount of for example animation you want to run on it.
     
 [What](#what)  
     
